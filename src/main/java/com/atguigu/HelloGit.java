@@ -3,7 +3,6 @@ package com.atguigu;
 /**
  * @ClassName: HelloGit
  * @Description: TODO
- * @Author: Fa
  * @Date: 2021-03-10 16:09
  * @Version: V1.0
  */
